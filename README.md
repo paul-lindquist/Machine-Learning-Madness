@@ -11,7 +11,7 @@ We target college basketball because of our domain knowledge and the talent disp
 ## Business Objective
 This project posits that we run a sports gambling company. We offer our customers advisory services during the busiest time of the sports year on events with the greatest amount of betting action.
 
-To maximize returns, we run a series of machine learning algorithms to model predictions for single games in the NCAA tournament. We pay particular focus to accurately predicting underdog team wins, as doing so yields higher payouts. Accuracy, and more specifically *predictive* accuracy, is paramount in selecting our models, as we strive to minimize risk for our customers.
+To maximize returns, we run a series of machine learning algorithms to model predictions for single games in the NCAA tournament. We give particular focus to accurately predicting underdog team wins, as doing so yields higher payouts. Accuracy, and more specifically *predictive* accuracy, is paramount in selecting our models, as we strive to minimize risk for our customers.
 
 ## Data
 This project uses datasets from Kaggle's *[March Machine Learning Mania 2021](https://www.kaggle.com/c/ncaam-march-mania-2021/data)* competition.
